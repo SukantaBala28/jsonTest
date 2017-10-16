@@ -1,10 +1,10 @@
 {
-	"user1": {
+	"user1": [{
 		"fName": "Kelly",
 		"lName": "Babson",
 		"password": "1234",
 		"email": "common@gmail.com",
-		"iniatives": {
+		"iniatives": [{
 			"Name": "IT function, Global Sourcing initiative",
 			"Description": "Implementation of the 'One Payor' sourcing of IT components system & global processes",
 			"Type": "IT system",
@@ -17,44 +17,44 @@
 			"Type": "Global leadership team",
 			"TypeDescription": "Global ",
 			"Lead": "Jo-Ann Gibbons Sr",
-			"Diagonastic": [
-				{"default": "5"}, 
-				{"identifySponsor": "5"},
-				{"vision-clarity": "3.5"},
-				{"sponsoring-coaliton": "7"},
-				{"sponsor-capability": "3.5"},
-				{"governance": "6"},
-				{"programme-management": "4"},
-				{"budgeting-resources": "8"},
-				{"programme-delivery": "4"},
-				{"business-requirements": "7"},
-				{"organization-design": "5"},
-				{"change-readiness": "7"},
-				{"implementation-planning": "4.5"},
-				{"change-leadership": "2"},
-				{"stakeholder-engagement": "2"},
-				{"implementation-capabiity": "5"},
-				{"supportPeople-Journey": "9"}
-			],
-			"Comments": [
-				{"default": "5"}, 
-				{"identifySponsor": "5"},
-				{"vision-clarity": "3.5"},
-				{"sponsoring-coaliton": "7"},
-				{"sponsor-capability": "3.5"},
-				{"governance": "6"},
-				{"programme-management": "4"},
-				{"budgeting-resources": "8"},
-				{"programme-delivery": "4"},
-				{"business-requirements": "7"},
-				{"organization-design": "5"},
-				{"change-readiness": "7"},
-				{"implementation-planning": "4.5"},
-				{"change-leadership": "2"},
-				{"stakeholder-engagement": "2"},
-				{"implementation-capabiity": "5"},
-				{"supportPeople-Journey": "9"}
-			]
-		}
-	}
+			"Diagonastic": [{
+				"default": "5", 
+				"identifySponsor": "5",
+				"vision-clarity": "3.5",
+				"sponsoring-coaliton": "7",
+				"sponsor-capability": "3.5",
+				"governance": "6",
+				"programme-management": "4",
+				"budgeting-resources": "8",
+				"programme-delivery": "4",
+				"business-requirements": "7",
+				"organization-design": "5",
+				"change-readiness": "7",
+				"implementation-planning": "4.5",
+				"change-leadership": "2",
+				"stakeholder-engagement": "2",
+				"implementation-capabiity": "5",
+				"supportPeople-Journey": "9"
+			}],
+			"Comments": [{
+				"default": " ", 
+				"identify-sponsor": "We are in the process of defining the executive sponsorship structure and whilst we know who the key sponsors are likely to be we do not have explicit agreement with them nor formal commitment.",
+				"vision-clarity": "Whilst we have high level goals ( 2% of revenue) the key success criteria for individual programmes are not defined and work in progress.",
+				"sponsoring-coaliton": "Work in progress",
+				"sponsor-capability": "Depending on the selection of the steering committee members for example the answer to this question will be different. If we assume the CFO staff are the primary executive coalition then we have alignment on organization design and agreement to start the journey. This is already a big step.",
+				"governance": "We have a first pass at roles and responsibilities defined ( for example on how the PMO interacts with the Global Process Owner structure)",
+				"programme-management": "We have identified a PMO organisation, but still have to work out how to propagate and foster adoption of an effective programme management structure across the programme",
+				"budgeting-resources": "We are in the process of building the budget and have a working assumption that we will be funded for this programme. Remains a risk until budget approval is achieved",
+				"programme-delivery": "Have a PMO identified and established and whilst this is not yet applied to the programme relatively low risk given the people involved.",
+				"business-requirements": "Work in progress. High level acceptance for the need for a B state organisation.",
+				"organization-design": "Work in progress yet to be completed. High risk due to the uncertainties around implementing change in the organization",
+				"change-readiness": "Work in progress yet to be completed. High risk due to the uncertainties around implementing change in the organization",
+				"implementation-planning": "Work in progress yet to be completed. High risk due to the uncertainties around implementing change in the organization",
+				"change-leadership": "Varied level of experience in team members in implementing change",
+				"stakeholder-engagement": "Advanced stakeholder initiated programme. General acceptance that stakeholders need to be identified and managed through the life cycle of the programme.",
+				"implementation-capabiity": "High level of uncertainty around our own ability to effect change due to the high level of dependency on external consultants in previous programmes.",
+				"supportPeople-Journey": "The organisation has experience significant change over past 4 years so individuals are experienced in adaptation ( not to say they like change)."
+			}]
+		}]
+	}]
 }
