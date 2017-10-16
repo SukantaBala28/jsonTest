@@ -1,5 +1,5 @@
 {
-	"user1": {
+	"user1": [{
 		"fName": "Kelly",
 		"lName": "Babson",
 		"password": "1234",
@@ -17,7 +17,7 @@
 			"Type": "Global leadership team",
 			"TypeDescription": "Global ",
 			"Lead": "Jo-Ann Gibbons Sr",
-			"Diagonastic": {
+			"Diagonastic": [{
 				"default": "5", 
 				"identifySponsor": "5",
 				"vision-clarity": "3.5",
@@ -35,8 +35,8 @@
 				"stakeholder-engagement": "2",
 				"implementation-capabiity": "5",
 				"supportPeople-Journey": "9"
-			},
-			"Comments": {
+			}],
+			"Comments": [{
 				"default": " ", 
 				"identify-sponsor": "We are in the process of defining the executive sponsorship structure and whilst we know who the key sponsors are likely to be we do not have explicit agreement with them nor formal commitment.",
 				"vision-clarity": "Whilst we have high level goals ( 2% of revenue) the key success criteria for individual programmes are not defined and work in progress.",
@@ -54,7 +54,7 @@
 				"stakeholder-engagement": "Advanced stakeholder initiated programme. General acceptance that stakeholders need to be identified and managed through the life cycle of the programme.",
 				"implementation-capabiity": "High level of uncertainty around our own ability to effect change due to the high level of dependency on external consultants in previous programmes.",
 				"supportPeople-Journey": "The organisation has experience significant change over past 4 years so individuals are experienced in adaptation ( not to say they like change)."
-			}
+			}]
 		}]
-	}
+	}]
 }
