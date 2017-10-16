@@ -19,7 +19,7 @@
 			"Lead": "Jo-Ann Gibbons Sr",
 			"Diagonastic": [{
 				"default": "5", 
-				"identify-sponsor": "5",
+				"identifySponsor": "5",
 				"vision-clarity": "3.5",
 				"sponsoring-coaliton": "7",
 				"sponsor-capability": "3.5",
