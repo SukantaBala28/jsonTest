@@ -4,7 +4,7 @@
 		"lName": "Babson",
 		"password": "1234",
 		"email": "common@gmail.com",
-		"iniatives": {
+		"iniatives": {[
 			"Name": "IT function, Global Sourcing initiative",
 			"Description": "Implementation of the 'One Payor' sourcing of IT components system & global processes",
 			"Type": "IT system",
@@ -55,6 +55,6 @@
 				"implementation-capabiity": "High level of uncertainty around our own ability to effect change due to the high level of dependency on external consultants in previous programmes.",
 				"supportPeople-Journey": "The organisation has experience significant change over past 4 years so individuals are experienced in adaptation ( not to say they like change)."
 			}
-		}
+		}]
 	}
 }
