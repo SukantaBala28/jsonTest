@@ -1,5 +1,5 @@
-[{
-	"user1": {
+{
+	"user1": [{
 		"fName": "Kelly",
 		"lName": "Babson",
 		"password": "1234",
@@ -56,5 +56,5 @@
 				{"supportPeople-Journey": "9"}
 			]
 		}]
-	}
-}]
+	}]
+}
