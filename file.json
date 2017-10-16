@@ -4,7 +4,7 @@
 		"lName": "Babson",
 		"password": "1234",
 		"email": "common@gmail.com",
-		"iniatives": {
+		"iniatives": [{
 			"Name": "IT function, Global Sourcing initiative",
 			"Description": "Implementation of the 'One Payor' sourcing of IT components system & global processes",
 			"Type": "IT system",
@@ -55,6 +55,6 @@
 				{"implementation-capabiity": "5"},
 				{"supportPeople-Journey": "9"}
 			]
-		}
+		}]
 	}
 }]
